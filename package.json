@@ -1,6 +1,6 @@
 {
   "name": "normalize-url-es5",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Normalize a URL",
   "license": "MIT",
   "repository": "brenca/normalize-url",
@@ -30,12 +30,10 @@
     "trim",
     "canonical"
   ],
-  "dependencies": {
+  "devDependencies": {
     "prepend-http": "^2.0.0",
     "query-string": "^5.0.1",
-    "sort-keys": "^2.0.0"
-  },
-  "devDependencies": {
+    "sort-keys": "^2.0.0",
     "babel-core": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-es2016": "^6.24.1",
